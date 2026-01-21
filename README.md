@@ -17,4 +17,6 @@ This project is a simple calculator application developed using Python that perf
  Functions handle user inputs and return results efficiently.
  Using functions makes the program easy to debug, test, and extend with new operations.
 
+# License
+  This project is licensed under the MIT License. See the LICENSE file for more details.
  
